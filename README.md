@@ -33,13 +33,13 @@
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?mehmetkzll=USERNAME&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mehmetkzll=USERNAME&layout=compact&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?mehmetkzll=mehmetkzll&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mehmetkzll=mehmetkzll&layout=compact&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 ---
 
 ### 🔥 Aktiflik Grafiği
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?mehmetkzll=mehmetkzll&theme=react-dark&hide_border=true&area=true" />
 </p>
