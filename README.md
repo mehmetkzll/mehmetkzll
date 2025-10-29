@@ -33,8 +33,8 @@
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?mehmetkzll=USERNAME&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mehmetkzll=USERNAME&layout=compact&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 ---
