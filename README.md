@@ -2,7 +2,7 @@
 
 <!-- ÜST BANNER (YAZISIZ VERSİYON) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" width="100%" alt="Discord x AI Banner">
+  <img src="https://raw.githubusercontent.com/mehmetkzll/mehmetkzll/main/banner.png" width="100%" alt="Discord x AI Banner">
 </p>
 
 <h1 align="center">👋 Merhaba, ben Mehmet Ali</h1>
@@ -19,27 +19,27 @@
 
 ### ⚙️ Şu Anda Üzerinde Çalıştıklarım
 - Yapay zekâ destekli **Discord bot sistemleri**
-- Web tabanlı altyapılar (frontend & backend)
-- Otomasyon ve sistem optimizasyonları
+- {}
+- {}
 
 ---
 
 ### 🧩 Öğrenmekte Olduğum Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?mehmetkzll=mehmetkzll&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mehmetkzll=mehmetkzll&layout=compact&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetkzll&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkzll&layout=compact&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 ---
 
 ### 🔥 Aktiflik Grafiği
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?mehmetkzll=mehmetkzll&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetkzll&theme=react-dark&hide_border=true&area=true" />
 </p>
